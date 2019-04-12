@@ -1,0 +1,2 @@
+# bpchromeplug
+借助chrome浏览器插件开发的PC端可视化埋点选择器
